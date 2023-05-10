@@ -1,0 +1,13 @@
+.navbar_bars {
+  display: none;
+}
+
+@media screen and (max-width: 1220px) {
+  .navbar_menu {
+    display: none;
+  }
+
+  .navbar_bars {
+    display: flex;
+  }
+}
