@@ -1,7 +1,6 @@
 {
   "name": "fitness_gym_site_project",
   "version": "0.1.0",
-  "homepage": "https://kevin-tran-development.github.io/Elevate-Fitness",
   "private": true,
   "dependencies": {
     "-": "^0.0.1",
@@ -22,9 +21,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
