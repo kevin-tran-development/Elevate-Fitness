@@ -10,10 +10,10 @@ This project emphasizes a clean, performance driven user-experience with intuiti
 - SEO-friendly structure and optimized images for improved performance and accessibility
 
 # Screenshots
-<img src="https://github.com/kevin-tran-development/cuv-honda-homepage/blob/main/docs/screenshots/elevate-fitness-schedule.jpg" width="768">
-<img src="https://github.com/kevin-tran-development/cuv-honda-homepage/blob/main/docs/screenshots/elevate-fitness-site-classes-filter.jpg" width="768">
-<img src="https://github.com/kevin-tran-development/cuv-honda-homepage/blob/main/docs/screenshots/elevate-fitness-site-classes.jpg" width="768">
-<img src="https://github.com/kevin-tran-development/cuv-honda-homepage/blob/main/docs/screenshots/elevate-fitness-site-memberships.jpg" width="768">
+<img src="https://github.com/kevin-tran-development/Elevate-Fitness/blob/main/docs/screenshots/elevate-fitness-schedule.jpg" width="768">
+<img src="https://github.com/kevin-tran-development/Elevate-Fitness/blob/main/docs/screenshots/elevate-fitness-site-classes-filter.jpg" width="768">
+<img src="https://github.com/kevin-tran-development/Elevate-Fitness/blob/main/docs/screenshots/elevate-fitness-site-classes.jpg" width="768">
+<img src="https://github.com/kevin-tran-development/Elevate-Fitness/blob/main/docs/screenshots/elevate-fitness-site-memberships.jpg" width="768">
 
 # Links
 - [Live Link](https://elevate-fitness.vercel.app/)
